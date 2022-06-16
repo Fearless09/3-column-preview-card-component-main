@@ -1,4 +1,6 @@
-# Frontend Mentor - 3-column preview card component
+# Frontend Mentor Challenge, Coded by Fearless Tech - 3-column preview card component
+
+https://fearless09.github.io/3-column-preview-card-component-main/
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
